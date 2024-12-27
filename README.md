@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **android**
 
 - 📫 How to reach me **jayeshumatheju@gmail.com**
 
